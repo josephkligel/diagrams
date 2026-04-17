@@ -142,14 +142,17 @@
         <mxCell id="-r2mBwkvfym_J7fZNkKT-46" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul&gt;&lt;li&gt;Save Screenshots&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="100" width="50" x="605" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="-r2mBwkvfym_J7fZNkKT-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul&gt;&lt;li&gt;Get Config&lt;/li&gt;&lt;li&gt;Save new Config&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="100" width="50" x="20" y="220" as="geometry" />
+        <mxCell id="-r2mBwkvfym_J7fZNkKT-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul&gt;&lt;li&gt;Read config&lt;/li&gt;&lt;li&gt;Save config&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="20" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="-r2mBwkvfym_J7fZNkKT-48" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul style=&quot;white-space: normal;&quot;&gt;&lt;li&gt;Get Configs&lt;/li&gt;&lt;li&gt;Get AssetStatuses&lt;/li&gt;&lt;li&gt;Add/Update Configs&lt;/li&gt;&lt;li&gt;Delete Configs&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="-r2mBwkvfym_J7fZNkKT-48" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul style=&quot;white-space: normal;&quot;&gt;&lt;li&gt;Read/Write configs&lt;/li&gt;&lt;li&gt;Delete configs&lt;/li&gt;&lt;li&gt;Read ADS/Asset status&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="127.5" width="50" x="255" y="201.25" as="geometry" />
         </mxCell>
-        <mxCell id="-r2mBwkvfym_J7fZNkKT-49" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul style=&quot;white-space: normal;&quot;&gt;&lt;li&gt;Post AssetStatus&lt;/li&gt;&lt;li&gt;Post Screenshot saved location&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="-r2mBwkvfym_J7fZNkKT-49" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul style=&quot;white-space: normal;&quot;&gt;&lt;li&gt;Post status&lt;/li&gt;&lt;li&gt;Post screenshot save location&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="130" width="50" x="570" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-r2mBwkvfym_J7fZNkKT-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="&lt;ul&gt;&lt;li&gt;SQL queries&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="255" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
