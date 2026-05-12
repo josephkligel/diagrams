@@ -239,8 +239,14 @@
         <mxCell id="62BvpHntcQPnivMNt9kZ-63" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="End" vertex="1">
           <mxGeometry height="60" width="100" x="730" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="62BvpHntcQPnivMNt9kZ-65" edge="1" parent="1" source="62BvpHntcQPnivMNt9kZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" target="62BvpHntcQPnivMNt9kZ-63">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="62BvpHntcQPnivMNt9kZ-65" edge="1" parent="1" source="62BvpHntcQPnivMNt9kZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="62BvpHntcQPnivMNt9kZ-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="1705" />
+              <mxPoint x="780" y="1705" />
+            </Array>
+            <mxPoint x="780" y="1760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="62BvpHntcQPnivMNt9kZ-71" edge="1" parent="1" source="62BvpHntcQPnivMNt9kZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BgAe_3_pOSCR2Osmki8O-44" value="">
           <mxGeometry relative="1" as="geometry" />
