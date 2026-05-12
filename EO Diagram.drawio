@@ -73,8 +73,8 @@
         <mxCell id="BgAe_3_pOSCR2Osmki8O-36" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
           <mxGeometry height="8" width="850" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="BgAe_3_pOSCR2Osmki8O-39" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#0070F2;fontFamily=Helvetica;fontStyle=1" value="User Process Flow" vertex="1">
-          <mxGeometry height="30" width="160" x="330" y="10" as="geometry" />
+        <mxCell id="BgAe_3_pOSCR2Osmki8O-39" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#0070F2;fontFamily=Helvetica;fontStyle=1" value="Standard User Process Flow" vertex="1">
+          <mxGeometry height="30" width="230" x="330" y="10" as="geometry" />
         </mxCell>
         <mxCell id="BgAe_3_pOSCR2Osmki8O-40" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#0070F2;fontFamily=Helvetica;fontStyle=1" value="Admin Reports Process Flow" vertex="1">
           <mxGeometry height="30" width="230" x="290" y="740" as="geometry" />
